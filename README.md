@@ -153,18 +153,6 @@ Remove the **iCloud** capability (trash icon) and add it again with **+ Capabili
 </details>
 
 <details>
-<summary><b>"No profiles for 'com.caden.gDash' were found"</b></summary>
-
-This is a side effect of a capability error, and it clears once that's fixed. Otherwise: connect and trust your iPhone, turn on **Developer Mode** on it, and select it as the run destination.
-</details>
-
-<details>
-<summary><b>Console noise: <code>Cannot add handler 0 from 0 - dropping</code> / <code>BGSystemTaskSchedulerErrorDomain Code=3</code></b></summary>
-
-Both come from iOS and SwiftData's iCloud sync, not from gDash's code, and are harmless. Filter them out with `-dropping` or `-BGSystemTask` in Xcode's console. To confirm sync works, look for `CD_*` records in the [CloudKit Console](https://icloud.developer.apple.com/) (Development → Private Database).
-</details>
-
-<details>
 <summary><b>The assistant says it's in "command mode"</b></summary>
 
 Apple Intelligence is unavailable: the device isn't eligible, it's turned off, or the model is still downloading. The assistant still understands commands like `what next`, `log Workout`, `add task Essay draft`, `spent 12 on Dining` and `budget Groceries 300`.
