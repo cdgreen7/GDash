@@ -18,16 +18,16 @@
 
 ## Features
 
-| | Section | What it does |
-|---|---|---|
-| 🔐 | **Secure login** | Sign in with Apple, plus a Face ID / passcode lock whenever the app returns from the background. Each account gets its own encrypted store, and the app-switcher snapshot is hidden. |
-| 🏠 | **Home** | A glance card for every section: what's due this week, today's schedule, habits not yet logged, spending against budget. An **Up next** card ranks the most urgent thing across everything. |
-| ✅ | **Assignments** | Add, edit, delete, mark complete. A progress bar and slider track how far along you are, with priority levels and overdue warnings. |
-| 📅 | **Schedule** | Today list, plus **Day** timeline, **Month** grid and **Year** overview. Shows events, assignment due dates, bill and credit-card due dates, and habit check-ins, with daily or weekly repeats. |
-| 🔥 | **Habits** | Create habits and log them with one tap. Current and best streaks, a priority toggle, a 7-day strip and a 16-week history grid (tap a day to edit it). |
-| 💸 | **Finances** | Monthly budgets by category, bills due soon with one-tap pay (recurring bills roll forward a month), a **money-flow chart** from income to spending categories, and a 6-month cash-flow chart. |
-| ✨ | **Assistant** | Chat with an on-device model (Apple Intelligence) that can add tasks and events, log habits, change budgets, record spending, and decide what you should do next. Falls back to simple commands when Apple Intelligence is unavailable. |
-| ⚡️ | **Shortcuts & Siri** | Log Habit, Add Assignment, Add Calendar Event, Log Expense or Income, and What Should I Do Next, all usable from the Shortcuts app, Siri or the Action button. |
+| Section | What it does |
+|---|---|
+| **Secure login** | Sign in with Apple, plus a Face ID / passcode lock whenever the app returns from the background. Each account gets its own encrypted store, and the app-switcher snapshot is hidden. |
+| **Home** | A glance card for every section: what's due this week, today's schedule, habits not yet logged, spending against budget. An **Up next** card ranks the most urgent thing across everything. |
+| **Assignments** | Add, edit, delete, mark complete. A progress bar and slider track how far along you are, with priority levels and overdue warnings. |
+| **Schedule** | Today list, plus **Day** timeline, **Month** grid and **Year** overview. Shows events, assignment due dates, bill and credit-card due dates, and habit check-ins, with daily or weekly repeats. |
+| **Habits** | Create habits and log them with one tap. Current and best streaks, a priority toggle, a 7-day strip and a 16-week history grid (tap a day to edit it). |
+| **Finances** | Monthly budgets by category, bills due soon with one-tap pay (recurring bills roll forward a month), a **money-flow chart** from income to spending categories, and a 6-month cash-flow chart. |
+| **Assistant** | Chat with an on-device model (Apple Intelligence) that can add tasks and events, log habits, change budgets, record spending, and decide what you should do next. Falls back to simple commands when Apple Intelligence is unavailable. |
+| **Shortcuts & Siri** | Log Habit, Add Assignment, Add Calendar Event, Log Expense or Income, and What Should I Do Next, all usable from the Shortcuts app, Siri or the Action button. |
 
 <!--
 ## Screenshots
